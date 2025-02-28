@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Gillespie59/eslint-plugin-angularjs.git"
+        "url": "https://github.com/alaajerbi/eslint-plugin-angular-flat-config"
     },
     "contributors": [
         "Emmanuel Demey (http://gillespie59.github.io/)",
@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://github.com/Gillespie59/eslint-plugin-angularjs/issues"
     },
-    "homepage": "https://github.com/Gillespie59/eslint-plugin-angularjs",
+    "homepage": "https://github.com/alaajerbi/eslint-plugin-angular-flat-config",
     "devDependencies": {
         "chai": "4.2.0",
         "chai-spies": "1.0.0",
