@@ -1,5 +1,5 @@
 {
-    "name": "eslint-plugin-angular-flat",
+    "name": "eslint-plugin-ngjs",
     "version": "0.0.1",
     "author": "Emmanuel Demey",
     "description": "ESLint rules for AngularJS projects (for eslint +9.0.0)",
