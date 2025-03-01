@@ -1,8 +1,8 @@
 {
-    "name": "eslint-plugin-angular-flat",
-    "version": "0.0.2",
+    "name": "eslint-plugin-angularjs",
+    "version": "0.0.1",
     "author": "Emmanuel Demey",
-    "description": "eslint-plugin-angular in ESLint flat config",
+    "description": "ESLint rules for AngularJS projects (for eslint +9.0.0)",
     "main": "index.js",
     "scripts": {
         "test": "gulp"
