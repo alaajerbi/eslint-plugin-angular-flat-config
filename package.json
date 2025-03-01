@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-ngjs",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": "Emmanuel Demey",
     "description": "ESLint rules for AngularJS projects (for eslint +9.0.0)",
     "main": "index.js",
