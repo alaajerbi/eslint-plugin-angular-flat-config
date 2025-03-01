@@ -11,3 +11,7 @@ When upgrading ESLint to version `^9.0.0`, ESLint configuration files must be up
 Unfortunately for legacy AngularJS applications that rely on EmmanuelDemey's `eslint-plugin-angular` package for linting, no flat config version was added (the original package's maintenance stopped 3 years ago).
 
 This is a forked version of the original package that is compatible with ESLint's new flat config.
+
+## Installation
+
+See original package [npm page](https://www.npmjs.com/package/eslint-plugin-angular). Make sure to have eslint +9.0.0 installed.
